@@ -7,8 +7,8 @@ Instagram kullanıcı hesabını raporlama
 ```bash
 pkg install git
 pkg install python
-git clone https://github.com/shubhamg0sai/instareport.git
-cd instareport
+git clone https://github.com/merto1603/instarep.git
+cd instarep
 python3 -m pip install requests
 python2 termux.py
 ```
